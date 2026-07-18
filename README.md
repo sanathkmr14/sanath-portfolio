@@ -1,5 +1,7 @@
 # Sanath Kumar - Personal Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2563eb?style=for-the-badge)](#)
+
 A sleek, modern, and fully responsive personal developer portfolio built to showcase my projects, skills, and experience.
 
 ## ✨ Features
@@ -34,6 +36,8 @@ To run this portfolio locally on your machine:
    ```bash
    python3 -m http.server 8080
    ```
-   Then visit `http://localhost:8080` in your browser.
+## 📫 Contact
 
+**I am currently available for freelance work and full-time opportunities!**
 
+Feel free to reach out to me via my website if you have a project in mind, or just want to chat.
