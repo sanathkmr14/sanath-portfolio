@@ -41,5 +41,3 @@ To run this portfolio locally on your machine:
 Feel free to reach out to me for freelance work, full-time opportunities, or just to say hi!
 
 - **Email**: sanathkumar.job@gmail.com
-- **LinkedIn**: [sanathkumar14](https://www.linkedin.com/in/sanathkumar14/)
-- **X / Twitter**: [@sanathp14](https://x.com/sanathp14)
