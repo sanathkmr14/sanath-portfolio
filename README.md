@@ -1,6 +1,6 @@
-# Sanath Kumar - Personal Portfolio
+# Sanath Kumar - Portfolio
 
-A sleek, modern, and fully responsive personal developer portfolio built to showcase my projects, skills, and experience.
+A premium, high-performance developer portfolio featuring a dynamic Glassmorphism UI. Built to elegantly showcase my technical expertise, latest projects, and professional journey.
 
 <div align="center">
   <a href="https://sanath-portfolio-developer.vercel.app/" target="_blank">
@@ -40,8 +40,18 @@ To run this portfolio locally on your machine:
    ```bash
    python3 -m http.server 8080
    ```
-## 📫 Contact
+## 📫 Get In Touch
 
 **I am currently available for freelance work and full-time opportunities!**
 
-Feel free to reach out to me via my website if you have a project in mind, or just want to chat.
+<div align="center">
+  <a href="https://sanath-portfolio-developer.vercel.app/#contact">
+    <img src="https://img.shields.io/badge/Contact_Me-007bff?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanathkumar14/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/harish156">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
