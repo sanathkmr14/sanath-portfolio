@@ -1,8 +1,12 @@
 # Sanath Kumar - Personal Portfolio
 
-[![TRY NOW ➔](https://img.shields.io/badge/TRY%20NOW%20%E2%9E%9C-007bff?style=for-the-badge)](https://sanath-portfolio.dev-vercel.app)
-
 A sleek, modern, and fully responsive personal developer portfolio built to showcase my projects, skills, and experience.
+
+<div align="center">
+  <a href="https://sanath-portfolio-developer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/TRY%20NOW%20%E2%9E%9C-007bff?style=for-the-badge" alt="TRY NOW ➔">
+  </a>
+</div>
 
 ## ✨ Features
 
