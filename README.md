@@ -24,7 +24,7 @@ To run this portfolio locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sanathkmr14/portfolio.git
+   git clone https://github.com/harish156/portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -36,8 +36,4 @@ To run this portfolio locally on your machine:
    ```
    Then visit `http://localhost:8080` in your browser.
 
-## 📫 Contact
 
-Feel free to reach out to me for freelance work, full-time opportunities, or just to say hi!
-
-- **Email**: sanathkumar.job@gmail.com
