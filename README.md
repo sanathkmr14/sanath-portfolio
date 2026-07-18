@@ -44,4 +44,8 @@ To run this portfolio locally on your machine:
 
 **I am currently available for freelance work and full-time opportunities!**
 
+Got a visionary project, a tricky bug to squash, or just want to talk code? I'm always eager to collaborate on innovative ideas. 
+
+Head over to my [Live Portfolio](https://sanath-portfolio-developer.vercel.app/#contact) to drop me a message, and let's build something extraordinary together!
+
 
